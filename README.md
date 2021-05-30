@@ -1,5 +1,5 @@
 # DATA SCIENCE AND MACHINE LEARNING
-<img src="./readme_data/200.gif">
+<img align="center" src="./readme_data/200.gif" alt="gif">
 
 ## This is DATA SCIENCE and MACHINE LEARNING repository 
 
