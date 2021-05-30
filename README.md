@@ -29,7 +29,9 @@
   <li>GridSearchCv</li> 
   <li>And lots more to addd ..............</li>   
 </ul>
+
 # MACHIN LEARNING MODEL USED
+
 <ol>
   <li>Linear Regression</li>
   <li>Logistic Regression</li> 
